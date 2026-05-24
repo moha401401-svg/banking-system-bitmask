@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Secure%20Banking%20System&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Paradigm-Object--Oriented%20(OOP)-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Bitmask%20ACL-orange?style=for-the-badge" />
@@ -190,7 +184,4 @@ Implements an audit trail by logging every single user login session with precis
   </tr>
 </table>
 
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
+
